@@ -1,0 +1,18 @@
+USE [SIGdb]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_GetBarang]    Script Date: 28/09/2020 19:55:45 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROCEDURE [dbo].[SP_GetBarang]
+AS
+	select
+	b.Id,
+	b.Nama_Barang,
+	b.Stok,
+	b.Jenis_Id,
+	b.CreateDate,
+	jb.Jenis_Barang
+from TB_Barang b join TB_JenisBarang jb ON b.Jenis_Id = jb.Id  where b.IsDelete=0
+RETURN 0

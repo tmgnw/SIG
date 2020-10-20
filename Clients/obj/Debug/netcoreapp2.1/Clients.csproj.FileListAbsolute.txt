@@ -1,0 +1,120 @@
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.dll
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.Views.dll
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\API.dll
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.deps.json
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.runtimeconfig.json
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.runtimeconfig.dev.json
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.pdb
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.Views.pdb
+C:\Users\Andreas\source\repos\SIG\Clients\bin\Debug\netcoreapp2.1\API.pdb
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.csprojAssemblyReference.cache
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.AssemblyInfoInputs.cache
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.AssemblyInfo.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.csproj.CoreCompileInputs.cache
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.RazorAssemblyInfo.cache
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.RazorAssemblyInfo.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.TagHelpers.input.cache
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.TagHelpers.output.cache
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.RazorCoreGenerate.cache
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Barang\Index.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\JenisBarang\Index.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.RazorTargetAssemblyInfo.cache
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.RazorTargetAssemblyInfo.cs
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.Views.pdb
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.csproj.CopyComplete
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.dll
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.pdb
+C:\Users\Andreas\source\repos\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.genruntimeconfig.cache
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.deps.json
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.runtimeconfig.json
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.runtimeconfig.dev.json
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.dll
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.pdb
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.Views.dll
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\Clients.Views.pdb
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\API.dll
+D:\Projek Visual Studio\SIG\Clients\bin\Debug\netcoreapp2.1\API.pdb
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.csprojAssemblyReference.cache
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.AssemblyInfoInputs.cache
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.AssemblyInfo.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.csproj.CoreCompileInputs.cache
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.RazorAssemblyInfo.cache
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.RazorAssemblyInfo.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.TagHelpers.input.cache
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.TagHelpers.output.cache
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.RazorCoreGenerate.cache
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Barang\Index.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\JenisBarang\Index.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.RazorTargetAssemblyInfo.cache
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.RazorTargetAssemblyInfo.cs
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.Views.pdb
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.csproj.CopyComplete
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.dll
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.pdb
+D:\Projek Visual Studio\SIG\Clients\obj\Debug\netcoreapp2.1\Clients.genruntimeconfig.cache
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\Clients.deps.json
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\Clients.runtimeconfig.json
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\Clients.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\Clients.dll
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\Clients.pdb
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\Clients.Views.dll
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\Clients.Views.pdb
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\API.dll
+C:\Users\Thomas\Documents\SIG-master\Clients\bin\Debug\netcoreapp2.1\API.pdb
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.AssemblyInfo.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.RazorAssemblyInfo.cache
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.RazorAssemblyInfo.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.TagHelpers.input.cache
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.TagHelpers.output.cache
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.RazorCoreGenerate.cache
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Barang\Index.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\JenisBarang\Index.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.RazorTargetAssemblyInfo.cache
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.RazorTargetAssemblyInfo.cs
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.Views.pdb
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.csproj.CopyComplete
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.dll
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.pdb
+C:\Users\Thomas\Documents\SIG-master\Clients\obj\Debug\netcoreapp2.1\Clients.genruntimeconfig.cache
